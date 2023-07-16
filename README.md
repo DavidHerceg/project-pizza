@@ -4,8 +4,8 @@ This is a JavaScript-based project that will display pre-recorded orders when th
 
 Technologies used for the task:
 
--HTML
--CSS
+- HTML
+- CSS
 - Javascript
 - Git
 
